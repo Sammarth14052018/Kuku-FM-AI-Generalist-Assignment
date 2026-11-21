@@ -1,0 +1,4 @@
+rank,segments,tool_score,human_hook_1to5,human_cliff_1to5,human_standalone_1to5,would_post(Y/N),failure_type,notes
+1,Ep 1 00:00.000 to 00:34.600,9.0,,,,,,
+2,Ep 2 00:00.000 to 00:35.200,7.0,,,,,,
+3,Ep 3 00:00.000 to 00:32.000,7.0,,,,,,

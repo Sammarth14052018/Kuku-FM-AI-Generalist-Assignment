@@ -1,0 +1,22 @@
+[project]
+name = "kuku-fm"
+version = "0.1.0"
+description = "Add your description here"
+readme = { text = "Find the Promos selects short promotional cuts from episode screenplays.", content-type = "text/plain" }
+authors = [
+    { name = "Sammarth14052018", email = "Sammarth18@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.30,<1",
+    "openai>=1.30,<3",
+    "pytest>=8,<10",
+    "streamlit>=1.67.0",
+]
+
+[project.scripts]
+kuku-fm = "kuku_fm:main"
+
+[build-system]
+requires = ["uv_build>=0.12.22,<0.13.0"]
+build-backend = "uv_build"

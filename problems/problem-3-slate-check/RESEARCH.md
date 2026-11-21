@@ -1,0 +1,14 @@
+# Where two different pitches can make the same promise
+
+**Decision studied.** A development editor reviewing a batch of US vertical drama pitches has to decide which, if any, to return to writers before scripting. The project focuses on recurring story mechanics. Kuku distinguishes its audio service, Kuku FM, from its short-video service, Kuku TV. The latter is the relevant product for this assignment. [Kuku product overview](https://kuku.app/about/)
+
+| Public material inspected | Observation | Design consequence |
+|---|---|---|
+| Kuku TV's *The Hidden Hero* promo description | A wife falls for an apparently ordinary husband whose concealed identity involves billionaire wealth. [Official promo](https://www.youtube.com/watch?v=H3QhiFX-IY0) | Extract the concealed identity independently of the character's job or location. |
+| Kuku TV's *Mr Jamai Hidden CEO* promo title and description tags | The title connects the discovery of the husband's wealth to renewed affection. The appeal overlaps with the first promo even though the implied relationship conflict differs. [Official promo](https://www.youtube.com/watch?v=8dVNHBAJGF0) | Show the exact evidence beside the category so the editor can preserve a deliberate variation. |
+| r/ReelShorts discussion of AI dramas | A viewer describes repeatedly seeing apparent outsiders turn out to be important family members or powerful figures. Other participants describe finding some shows entertaining. [Viewer discussion](https://www.reddit.com/r/ReelShorts/comments/1vo49fq/ai_is_getting_out_of_hand/) | Flag concentration for review; editors decide whether familiarity serves the audience. |
+| r/ReelShorts discussion of hooks | A viewer describes surprising openings converging on the same relationship plot. [Viewer account](https://www.reddit.com/r/ReelShorts/comments/1w8d2g6/always_the_craziest_hooks_followed_by_the_most/) | Count twist and hero role jointly. A fresh setting alone can leave the dramatic promise intact. |
+
+**What can be concluded.** Two purposefully selected promo descriptions demonstrate an observable overlap in how Kuku sells shows. Forum comments document a related complaint on a different platform. The search targeted hidden-identity pitches, so it cannot estimate catalog prevalence. These sources also leave Kuku's internal workflow, audience retention and the production methods of the two shows unknown. The US slate in the demo is original test material.
+
+**Why prioritize this step.** Promo selection improves distribution once an episode exists. Legal review catches a different class of script error. Pitch review can change what gets commissioned while the revision still fits in two sentences. That timing makes it a plausible intervention for repetition fatigue. Its relative financial return remains unmeasured.

@@ -1,0 +1,7 @@
+groq>=0.31,<2
+pinecone>=10.1,<11
+pypdf>=5,<7
+python-dotenv>=1,<2
+sentence-transformers>=3,<6
+streamlit>=1.44,<2
+pymupdf>=1.24,<2

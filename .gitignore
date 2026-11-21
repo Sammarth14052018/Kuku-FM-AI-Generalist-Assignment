@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Private assignment input
+/problems/problem-1-find-the-promos/I Married a Broken Soldier. He was a Duke/

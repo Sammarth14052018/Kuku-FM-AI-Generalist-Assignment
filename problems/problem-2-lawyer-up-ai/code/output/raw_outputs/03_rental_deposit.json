@@ -1,0 +1,10 @@
+{
+  "mode": "live",
+  "question": "My landlord in Pune kept my security deposit after I moved out. Which law applies and what should I do?",
+  "seconds": 2.46,
+  "response": {
+    "status": "insufficient",
+    "text": "I couldn’t find enough indexed evidence to answer. Try adding your state or union territory and the relevant date, or narrow the question to one issue.",
+    "sources": []
+  }
+}

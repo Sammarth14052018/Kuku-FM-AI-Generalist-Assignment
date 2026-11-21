@@ -1,0 +1,144 @@
+{
+  "rows": [
+    {
+      "logline": "A Seattle valet secretly owns the garage her father is about to lose. At the auction the clerk reads her name off the deed.",
+      "twist_type": "hidden_identity",
+      "hero_role_group": "service_worker",
+      "setting_group": "us_city_named",
+      "cliffhanger_type": "reveal",
+      "city": "Seattle",
+      "hero_job": "valet",
+      "villain": "unknown",
+      "secret": "valet owns garage",
+      "evidence": "secretly owns the garage",
+      "doubt": "Ownership is explicit; the reason for the auction is unstated."
+    },
+    {
+      "logline": "A Seattle waitress keeps her ownership of the diner from her sister, who wants to sell it. At closing the buyer turns the license around and points to the waitress's name.",
+      "twist_type": "hidden_identity",
+      "hero_role_group": "service_worker",
+      "setting_group": "us_city_named",
+      "cliffhanger_type": "reveal",
+      "city": "Seattle",
+      "hero_job": "waitress",
+      "villain": "unknown",
+      "secret": "waitress owns diner",
+      "evidence": "keeps her ownership of the diner",
+      "doubt": "The sister could be acting in good faith."
+    },
+    {
+      "logline": "A Chicago cleaner hides the fact that she owns the motel where her brother pockets the rent. He opens the tax bill and sees her name.",
+      "twist_type": "hidden_identity",
+      "hero_role_group": "service_worker",
+      "setting_group": "us_city_named",
+      "cliffhanger_type": "reveal",
+      "city": "Chicago",
+      "hero_job": "cleaner",
+      "villain": "brother",
+      "secret": "cleaner owns motel",
+      "evidence": "hides the fact that she owns",
+      "doubt": ""
+    },
+    {
+      "logline": "A student discovers her roommate has been auditioning under her name. The roommate gives her until curtain up to surrender the part or lose their apartment.",
+      "twist_type": "imposter_takes_place",
+      "hero_role_group": "student",
+      "setting_group": "unknown",
+      "cliffhanger_type": "choice_ultimatum",
+      "city": "unknown",
+      "hero_job": "unknown",
+      "villain": "roommate",
+      "secret": "roommate took student's identity",
+      "evidence": "auditioning under her name",
+      "doubt": "Curtain up sets a deadline but leaves the scene location open."
+    },
+    {
+      "logline": "A small-town surgeon comes home to expose the doctor who switched her patient's charts. He holds the surviving chart over a flame.",
+      "twist_type": "revenge_return",
+      "hero_role_group": "legal_medical",
+      "setting_group": "small_town",
+      "cliffhanger_type": "threat",
+      "city": "unknown",
+      "hero_job": "surgeon",
+      "villain": "doctor",
+      "secret": "doctor switched charts",
+      "evidence": "comes home to expose the doctor",
+      "doubt": ""
+    },
+    {
+      "logline": "A violinist discovers her duet partner sold their only recording to pay his debts. The buyer knocks before she can confront him.",
+      "twist_type": "betrayal_by_ally",
+      "hero_role_group": "creative_artist",
+      "setting_group": "unknown",
+      "cliffhanger_type": "arrival",
+      "city": "unknown",
+      "hero_job": "violinist",
+      "villain": "duet partner",
+      "secret": "partner sold recording",
+      "evidence": "duet partner sold their only recording",
+      "doubt": ""
+    }
+  ],
+  "fixes": {
+    "1": [
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "arrival",
+        "new_logline": "A Seattle valet secretly owns the garage her father is about to lose. Before bidding opens, her father walks in carrying his old garage keys.",
+        "why_fresh": "Her father arrives before the sale begins."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "threat",
+        "new_logline": "A Seattle valet secretly owns the garage her father is about to lose. The auctioneer reaches for the gavel while her father is still parking outside.",
+        "why_fresh": "The gavel sets a deadline for intervention."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "choice_ultimatum",
+        "new_logline": "A Seattle valet secretly owns the garage her father is about to lose. The clerk gives her ten seconds to show the deed or let the sale proceed.",
+        "why_fresh": "Stopping the sale would expose her ownership."
+      }
+    ],
+    "2": [
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "arrival",
+        "new_logline": "A Seattle waitress keeps her ownership of the diner from her sister, who wants to sell it. Before the buyer can sign, their mother walks in carrying the diner's first menu.",
+        "why_fresh": "A family witness interrupts the sale."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "threat",
+        "new_logline": "A Seattle waitress keeps her ownership of the diner from her sister, who wants to sell it. The buyer promises to strip the kitchen tonight unless someone challenges the sale.",
+        "why_fresh": "The kitchen faces an immediate threat."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "choice_ultimatum",
+        "new_logline": "A Seattle waitress keeps her ownership of the diner from her sister, who wants to sell it. The buyer gives her until closing to sign away the diner or send her sister home empty-handed.",
+        "why_fresh": "She must weigh ownership against her sister's plans."
+      }
+    ],
+    "3": [
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "arrival",
+        "new_logline": "A Chicago cleaner hides the fact that she owns the motel where her brother pockets the rent. They are counting the cash when a tenant arrives with a second rent receipt.",
+        "why_fresh": "A tenant interrupts the private dispute."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "threat",
+        "new_logline": "A Chicago cleaner hides the fact that she owns the motel where her brother pockets the rent. He holds the only rent ledger over a lit burner.",
+        "why_fresh": "The evidence is seconds from destruction."
+      },
+      {
+        "field": "cliffhanger_type",
+        "changed_to": "choice_ultimatum",
+        "new_logline": "A Chicago cleaner hides the fact that she owns the motel where her brother pockets the rent. To recover the missing rent she must sign a complaint as owner before her brother leaves town.",
+        "why_fresh": "Recovering the money could expose her identity."
+      }
+    ]
+  }
+}

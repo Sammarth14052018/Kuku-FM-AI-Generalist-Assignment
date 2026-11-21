@@ -1,0 +1,94 @@
+[
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 1,
+        "start_ts": "00:00.000",
+        "end_ts": "00:34.600"
+      }
+    ],
+    "duration_s": 34.6,
+    "hook": "LENA: Why is my signature on a letter I never wrote?",
+    "cliffhanger": "LENA: My brother has been missing for a year.",
+    "why": "This continuous segment introduces the central mystery and emotional stakes, engaging viewers immediately with a personal and suspenseful dilemma.",
+    "timing_estimated": true,
+    "score": 9.0,
+    "critic": {
+      "hook": 9,
+      "cliffhanger": 10,
+      "standalone": 8,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "The dialogue is intriguing but may confuse viewers without additional context about the brother's disappearance.",
+        "The setting and stakes could be clearer to enhance immediate engagement.",
+        "The mention of the date 'Tomorrow' is compelling but might need visual emphasis to maximize impact."
+      ]
+    },
+    "rank": 1
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 2,
+        "start_ts": "00:00.000",
+        "end_ts": "00:35.200"
+      }
+    ],
+    "duration_s": 35.2,
+    "hook": "TOM: That train never stopped here. Who stamped this ticket?",
+    "cliffhanger": "TOM: That's the key to the station clock.",
+    "why": "This segment introduces a mysterious ticket and ends with a key discovery, engaging viewers with intrigue and a tangible clue.",
+    "timing_estimated": true,
+    "score": 7.0,
+    "critic": {
+      "hook": 7,
+      "cliffhanger": 8,
+      "standalone": 6,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "Dialogue-heavy with minimal visual action, which may reduce immediate engagement.",
+        "Somewhat cryptic references (e.g., 'key to the station clock') might confuse viewers without context.",
+        "The setting and stakes are unclear, limiting standalone appeal.",
+        "The mystery is intriguing but not fully established within the clip."
+      ]
+    },
+    "rank": 2
+  },
+  {
+    "kind": "single",
+    "segments": [
+      {
+        "ep": 3,
+        "start_ts": "00:00.000",
+        "end_ts": "00:32.000"
+      }
+    ],
+    "duration_s": 32.0,
+    "hook": "LENA: Take your hand off that switch!",
+    "cliffhanger": "VOICE: Lena? Did you get my letter?",
+    "why": "This segment introduces immediate tension and mystery with a time-sensitive action and an unexpected voice from inside the clock.",
+    "timing_estimated": false,
+    "score": 7.0,
+    "critic": {
+      "hook": 7,
+      "cliffhanger": 8,
+      "standalone": 6,
+      "scroll_stop_3s": true,
+      "resolved_right_after": false,
+      "spoils_big_twist": false,
+      "issues": [
+        "Dialogue is somewhat cryptic without context, making it harder to immediately grasp the stakes.",
+        "The urgency is clear but the setting and characters' motivations are vague.",
+        "The voice from inside adds intrigue but might confuse viewers if not followed quickly.",
+        "The transition to 'He's here.' after the cut is good but might be too subtle to fully satisfy the cliffhanger."
+      ]
+    },
+    "rank": 3
+  }
+]
